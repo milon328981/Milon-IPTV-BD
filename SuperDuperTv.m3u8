@@ -5,10 +5,12 @@ https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 #EXTINF:-1,GTV HD icc
 http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1,Atn Bangla
+http://103.132.180.245:8080/8/index.m3u8
 #EXTINF:-1,Atn music
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1,Asian Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_asian_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1,Independent Tv
+http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1,Atn Bangla
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_atn_banglaPQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,Atn News
@@ -19,10 +21,10 @@ http://103.205.133.20/hls/banglavision.m3u8
 http://103.205.133.48/hls/banglavision.m3u8
 #EXTINF:-1,Bangla TV
 http://103.205.133.48/hls/banglatv.m3u8
-#EXTINF:-1,Bijoy Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_bijoy_tvPQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1,Asian Tv
+http://103.135.208.14:8082/62/index.m3u8?token=39ab02e996a89ec144e78518eb5883e816acd9b0-1f745e25662c1c2e11e97be27466872d-1607096433-1607085633&remote=103.76.242.238
 #EXTINF:-1,Boisakhi Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_boishakhi_tvPQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+http://103.135.208.14:8082/61/index.m3u8?token=1c994843979104f7db970207b3f184bfdd677a69-a239e9d01088437e3b7e241f08f99e08-1607096558-1607085758&remote=103.76.242.238
 #EXTINF:-1,Channel 24
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_channel_24PQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,Channel 9
@@ -63,12 +65,14 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.205.133.48/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna Tv 2
 http://103.205.133.20/hls/jamunatv.m3u8
+#EXTINF:-1,Somoy Tv
+http://103.135.208.14:8082/17/index.m3u8?token=1b5d997fd5f25a0ae016e8440b63523a428f1b5d-716169d16806fcc7fbe65dd85a75072a-1607096721-1607085921&remote=103.76.242.238
 #EXTINF:-1,voice Tv
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1,Masranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
 #EXTINF:-1,Mohona Tv
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_mohona_tvPQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+http://103.135.208.14:8082/50/index.m3u8?token=85f4898826b3dc8a2f2229bf72b2414e9f407294-d22052f9f38a4b1250d38bc4b61fc4bf-1607096804-1607086004&remote=103.76.242.238
 #EXTINF:-1,My TV
 http://103.205.133.20/hls/mytv.m3u8
 #EXTINF:-1,My TV 2
@@ -175,10 +179,10 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sony Max 2
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_max_2PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1,Colors HD
+http://103.135.208.14:8082/68/index.m3u8?token=88c4b2ffe0cf1415d6cadd91400ca6663dcf7827-6280449ab85ad2b2821eb5b392ed8e40-1607096613-1607085813&remote=103.76.242.238
 #EXTINF:-1,Nick Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nickelodeonPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://103.135.208.14:8082/55/index.m3u8?token=6b4e6180c139b0c351412e92e2c879b31c6e8781-9613c6fd7b28e8df43cfc65673bbc14b-1607096682-1607085882&remote=103.76.242.238
 #EXTINF:-1,Songit Bangla
 http://103.205.133.48/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
@@ -255,8 +259,8 @@ https://z5amshls.akamaized.net/bigmagic/tracks-v3a1/index.m3u8
 https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
 #EXTINF:-1,Disney HD
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Gtv Icc
-http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1,Animal Planet
+https://streamitv.multitvsolution.in/idvo/aphd_240p/index.m3u8
 #EXTINF:-1,Sony Sab HD 1
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_b4u_moviesPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,Sony Sab HD 2
