@@ -109,6 +109,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Ad Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Ptv Sports
+http://103.135.208.14:8082/73/index.m3u8?token=707b4fd67fafb6b0a1f535f751f4f6dd2dde7b98-510f46e1ae3e44f206eb624f4176f60c-1607101352-1607090552&remote=103.76.242.238
 #EXTINF:-1,Sony Six
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 1
