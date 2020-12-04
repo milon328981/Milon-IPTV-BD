@@ -206,8 +206,8 @@ http://103.135.208.14:8082/30/index.m3u8?token=4edbe69157850fc990c1809e0f9c785ef
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_3PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,Sony Pix
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_pixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1,HBO
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_hboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1,sony six HD
+http://103.135.208.14:8082/24/index.m3u8?token=c1db18940d47b309cfa49dddcba7baf28dca8f76-d103b26a8144f3c2a5d789f794783668-1607108884-1607098084&remote=103.76.242.238
 #EXTINF:-1,Music India
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_music_indiaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,WB
