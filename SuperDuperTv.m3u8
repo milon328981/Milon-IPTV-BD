@@ -417,9 +417,9 @@ https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://ott.bingebd.com/live/ngrp:WHPrtTqwn-amdr-h71T572GHX-06as-f7yt-9ffx1-t1682a-xgk72t-gp9y-dkf-3f7PTY-ort_961j_sWT924hHX_AZLY9162_sabGRTX_9ty393SDE_s89IYWHQ_hitx_f36eqxry_port73_DH/chunklist_b3128000.m3u8
 #EXTINF:-1,Colors HD
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
-#EXTINF:-1,Colors
+#EXTINF:-1,Colors SD
 http://10.16.100.201/hindi/colorsin.m3u8
-#EXTINF:-1 ,colors
+#EXTINF:-1 ,colors SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
 #EXTINF:-1 ,sony tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
