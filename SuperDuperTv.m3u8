@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,T Sports
-http://175.41.46.16:8081/hls/11.m3u8
+#EXTINF:-1,T Sports ICC
+http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1,GTV H
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 #EXTINF:-1,GTV HD icc
@@ -12,9 +12,9 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Independent Tv
 http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1,Atn Bangla
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_atn_banglaPQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1,Atn News
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_atn_newsPQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+http://tv.dflix.live:8082/2/mono.m3u8?token=5d8c83b3d4167109a3cc47e8bf33b502d7816c22-64aec6b9935c7a54ab0318b13ff6b212-1607149349-1607138549&remote=103.76.242.238
+#EXTINF:-1,Star Jalsha HD
+http://tv.dflix.live:8082/30/mono.m3u8?token=698a7d033d21dd67d950350abac8517d2db82fef-3fb8cb1658c06684900a7610933eb0f4-1607148973-1607138173&remote=103.76.242.238
 #EXTINF:-1,Bangla Vission
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1,Bangla Vission 2
@@ -25,8 +25,8 @@ http://103.205.133.48/hls/banglatv.m3u8
 http://103.135.208.14:8082/62/index.m3u8?token=a2437469367209049c4ed755090f0623398d4d7c-ee7a2fc36713bc17d707fef05d80213b-1607109472-1607098672&remote=103.76.242.238
 #EXTINF:-1,Boisakhi Tv
 http://103.135.208.14:8082/61/index.m3u8?token=1c994843979104f7db970207b3f184bfdd677a69-a239e9d01088437e3b7e241f08f99e08-1607096558-1607085758&remote=103.76.242.238
-#EXTINF:-1,Channel 24
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU-shfdsj-34GTX-03as-1ffd2-sgh32x-zp3e-dsf-3b7aa-ort_sWT564hQW_AQTY1025_channel_24PQRT_9653SDE_s9023_Td46gZ_FGWQ_uadasiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:-1,Asian TV
+http://tv.dflix.live:8082/62/mono.m3u8?token=ce4656162e6aeb8ba25298458b043b4bf5811864-b827223f9a3a3eaf585ada3f6e8f85d8-1607149277-1607138477&remote=103.76.242.238
 #EXTINF:-1,Channel 9
 http://103.76.243.66:8000/hls/ninechannel.m3u8?itcnbd_jhenaidah_01874888182_itcnbd.com
 #EXTINF:-1,Channel I
@@ -99,8 +99,8 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.205.133.48/hls/satv.m3u8
 #EXTINF:-1,SATV 2
 http://103.205.133.20/hls/satv.m3u8
-#EXTINF:-1,T Sports
-https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ptv Sports 2
+http://tv.dflix.live:8082/73/2020/12/05/03/22/17-06000.ts?token=bbfb59874e65bdffd71e35f05416676cf76d263f-b3c47d2d851661c8225776dcda313bc7-1607149054-1607138254
 #EXTINF:-1,Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Ad Sports 2
@@ -112,12 +112,13 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 #EXTINF:-1,Ptv Sports
 http://103.135.208.14:8082/73/index.m3u8?token=707b4fd67fafb6b0a1f535f751f4f6dd2dde7b98-510f46e1ae3e44f206eb624f4176f60c-1607101352-1607090552&remote=103.76.242.238
 #EXTINF:-1,Sony Six
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
+http://tv.dflix.live:8082/24/mono.m3u8?token=8d30c65b96b1817e95ade31041b341878b11f4ab-60923ba26f2c6cfa6e54149b2ddca88d-1607149111-1607138311&remote=103.76.242.238
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
-#EXTINF:-1,Sony Ten 2http://103.135.208.14:8082/21/index.m3u8?token=05bb9cb96b89ad5c8165ab53af027b708631ef35-b1e6d22af3b2ea8f1d7ff9fa59396b34-1607103224-1607092424&remote=103.76.242.238
+#EXTINF:-1,Sony Ten 2
+http://103.135.208.14:8082/21/index.m3u8?token=05bb9cb96b89ad5c8165ab53af027b708631ef35-b1e6d22af3b2ea8f1d7ff9fa59396b34-1607103224-1607092424&remote=103.76.242.238
 #EXTINF:-1,Sony Ten 3
-http://103.135.208.14:8082/22/index.m3u8?token=10d4e46bfbf6ef0b7357b1d3383d121bc08b1346-a4283c9c514c70871fe6911887bd066c-1607103184-1607092384&remote=103.76.242.238
+http://tv.dflix.live:8082/22/mono.m3u8?token=b5f9ed16c78e036a82502a3ac2a329ad91dba8f9-693095ed6061a76846cce4f84c56bd3c-1607149238-1607138438&remote=103.76.242.238
 #EXTINF:-1,Star Sports 2
 http://103.205.133.48/hls/chss2.m3u8
 #EXTINF:-1,Radio Contact
@@ -165,7 +166,7 @@ http://103.205.133.48/hls/chsp.m3u8
 #EXTINF:-1,Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 #EXTINF:-1,Star Gold HD
-http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+http://tv.dflix.live:8082/75/mono.m3u8?token=462de0f3f73510dbf2dfe228a4f7632417911923-7f903b42fd9a6ee29f5110345e646ac1-1607148927-1607138127&remote=103.76.242.238
 #EXTINF:-1,And Tv
 http://103.205.133.48/hls/andtv.m3u8
 #EXTINF:-1,Star Bharat HD
@@ -416,7 +417,7 @@ https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,Sony Sab
 https://ott.bingebd.com/live/ngrp:WHPrtTqwn-amdr-h71T572GHX-06as-f7yt-9ffx1-t1682a-xgk72t-gp9y-dkf-3f7PTY-ort_961j_sWT924hHX_AZLY9162_sabGRTX_9ty393SDE_s89IYWHQ_hitx_f36eqxry_port73_DH/chunklist_b3128000.m3u8
 #EXTINF:-1,Colors HD
-http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+http://tv.dflix.live:8082/68/mono.m3u8?token=a7f0dddb5c237aed1eff8ede70837f35e4656baa-2ae43690ba02ff523ef51561cdd25a74-1607148873-1607138073&remote=103.76.242.238
 #EXTINF:-1,Colors SD
 http://10.16.100.201/hindi/colorsin.m3u8
 #EXTINF:-1 ,colors SD
@@ -587,6 +588,6 @@ http://103.135.208.14:8082/41/index.m3u8?token=f63de96f01d0c2928a5c0cdb463381ca1
 #EXTINF:-1,Sony ESPN
 http://103.135.208.14:8082/23/index.m3u8?token=4e16a48b20eb4457c6887771dd9b463bc1b35c42-760feb1d87297272c28ea89dd4e8e814-1607103497-1607092697&remote=103.76.242.238
 #EXTINF:-1,Colors Bangla HD NO Buffer
-http://103.135.208.14:8082/66/index.m3u8?token=02d7b1385cc47bb393b611a6455694842d5318ed-5483a778cb1f367f2a2a2afe8f788307-1607109532-1607098732&remote=103.76.242.238
+http://tv.dflix.live:8082/66/mono.m3u8?token=16f4d3c6c36b894f45c61468f76cde14be8465e0-31a88c22adf327087fe042c2d47a8057-1607148784-1607137984&remote=103.76.242.238
 #EXTINF:-1, Zee bangla Cinema
 http://103.135.208.14:8082/29/index.m3u8?token=bc991b93b6dc5e1e80d8a7d7037c86ca277b26fe-6548f7654a5872d1d2c999ecb4abb8aa-1607103733-1607092933&remote=103.76.242.238
