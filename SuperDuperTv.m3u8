@@ -2559,8 +2559,8 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1,Ptv Sports
 http://103.135.208.14:8082/73/index.m3u8?token=707b4fd67fafb6b0a1f535f751f4f6dd2dde7b98-510f46e1ae3e44f206eb624f4176f60c-1607101352-1607090552&remote=103.76.242.238
-#EXTINF:-1,Sony Six
-http://tv.dflix.live:8082/24/mono.m3u8?token=8d30c65b96b1817e95ade31041b341878b11f4ab-60923ba26f2c6cfa6e54149b2ddca88d-1607149111-1607138311&remote=103.76.242.238
+#EXTINF:-1,Sony Six HD NEW
+http://tv.dflix.live:8082/24/index.m3u8?token=2e904bef7711f303422623eb8fa6fc441798e6b4-d44a3164648d50c3edea1b9b360bcb40-1607187174-1607176374&remote=103.76.242.238
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2
