@@ -8,6 +8,8 @@ https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="Bangla News",Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:-1,GTV HD
+http://tv.dflix.live:8082/1/mono.m3u8?token=468b0d7d957e2d51f36a34ea936c1883d1312f8e-6d3aeecc7a06d1a4ab604e23cf408c89-1607171346-1607160546&remote=103.76.242.238
+#EXTINF:-1,GTV HD 2
 http://103.135.208.14:8082/1/index.m3u8?token=b8686e319dac5aeb1e031a7412e7f59a67bf15a2-28c79966a4bca0259493dd425631da69-1607171164-1607160364&remote=103.76.242.238
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangla News",BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
@@ -2648,13 +2650,13 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,SATV
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,Sony Ten 2
-http://103.135.208.14:8082/30/index.m3u8?token=4edbe69157850fc990c1809e0f9c785efc5178b5-8b35446aa7ec57a59cc96bf48607d9e7-1607103570-1607092770&remote=103.76.242.238
+http://103.135.208.14:8082/21/index.m3u8?token=7959a619fb7184063b7750bf736bcf6dbb447b64-43c9047ad5a8965b9d4440484e788aa0-1607171563-1607160763&remote=103.76.242.238
 #EXTINF:-1,Sony Ten 3
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_ten_3PQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1,Sony Pix
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_pixPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://103.135.208.14:8082/22/index.m3u8?token=b290d6779c8ed2f1a4050c5880820cd8022b4c2f-7e2abcbae3cc83e998de4c7df3bbca13-1607171590-1607160790&remote=103.76.242.238
+#EXTINF:-1,Sony Ten 1
+http://103.135.208.14:8082/20/index.m3u8?token=4e6cf12002566f4d318c1743e60f56480361ba41-b3db33f3c55c1a4fa8edb3c6c7e6d9f0-1607171623-1607160823&remote=103.76.242.238
 #EXTINF:-1,sony six HD
-http://103.135.208.14:8082/24/index.m3u8?token=c1db18940d47b309cfa49dddcba7baf28dca8f76-d103b26a8144f3c2a5d789f794783668-1607108884-1607098084&remote=103.76.242.238
+http://103.135.208.14:8082/24/index.m3u8?token=5df9a2f28a184fa8f046449a34461095f5f8c831-c3a1508209c1bd23dd6382c1a8fda0bc-1607171516-1607160716&remote=103.76.242.238
 #EXTINF:-1,Music India
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_music_indiaPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1,WB
@@ -3030,10 +3032,10 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1,Star Sports
 http://103.135.208.14:8082/25/index.m3u8?token=fbd7169874f2814e6b3aba9fde82a67d293854fe-b4f7eeb8d1b041d2c184733830e59272-1607103265-1607092465&remote=103.76.242.238
 #EXTINF:-1,Sony Pix HD
-http://103.135.208.14:8082/41/index.m3u8?token=f63de96f01d0c2928a5c0cdb463381ca18bbc0f8-0d57854606877b643f799060645a6dbe-1607103397-1607092597&remote=103.76.242.238
+http://103.135.208.14:8082/41/index.m3u8?token=bfb386e564a6f2f71e65d8cb674f72f923d2076c-ce46b382686a33e4fbfcf4265e856c2a-1607171472-1607160672&remote=103.76.242.238
 #EXTINF:-1,Sony ESPN
 http://103.135.208.14:8082/23/index.m3u8?token=4e16a48b20eb4457c6887771dd9b463bc1b35c42-760feb1d87297272c28ea89dd4e8e814-1607103497-1607092697&remote=103.76.242.238
 #EXTINF:-1,Colors Bangla HD NO Buffer
-http://tv.dflix.live:8082/66/mono.m3u8?token=16f4d3c6c36b894f45c61468f76cde14be8465e0-31a88c22adf327087fe042c2d47a8057-1607148784-1607137984&remote=103.76.242.238
+http://103.135.208.14:8082/66/index.m3u8?token=e6c9111a5032ed56a206a22ca703bcdbddcb031b-c6de95b90602dfa52d72acb6905eaae7-1607171446-1607160646&remote=103.76.242.238
 #EXTINF:-1, Zee bangla Cinema
-http://103.135.208.14:8082/29/index.m3u8?token=bc991b93b6dc5e1e80d8a7d7037c86ca277b26fe-6548f7654a5872d1d2c999ecb4abb8aa-1607103733-1607092933&remote=103.76.242.238
+http://103.135.208.14:8082/29/2020/12/05/09/35/25-05281.ts?token=f07ef0ea7733790cbdf89dc381cc1a793ec53f0c-7b6fc5a0f33d5f744cd1c18e98a2f643-1607171418-1607160618
