@@ -11,6 +11,24 @@ https://rhridoy136.shortcm.li/boishakhitv.m3u8
 http://103.135.208.14:8082/24/index.m3u8?token=d41017f21088abba4eab101a1de6bcabf499cb77-496b64257982b75632d55b4c1a71dfbb-1607236503-1607225703&remote=103.76.242.238
 #EXTINF:-1,Sony Aath new
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
+#EXTINF:-1,Sony Aath new 2
+https://ccntv.anytv.live/sonyaath/index.m3u8
+#EXTINF:-1,Jalsha Movies New HD
+https://ccntv.anytv.live/jalshamovise/index.m3u8
+#EXTINF:-1, Sony Max old
+https://ccntv.anytv.live/sonymax/index.m3u8
+#EXTINF:-1,DBC news
+http://103.132.180.245:8080/2/index.m3u8
+#EXTINF:-1, Star Jalsha Yuup
+https://yuppcatchup.akamaized.net/starjalsha/06Dec2020/1800/1607227224332_6000.ts
+#EXTINF:-1, Zee Bangla New
+http://163.172.29.246:8081/globalbd/zeebangla/l_29146_37842080_6297.ts?nimblesessionid=58893261
+#EXTINF:-1,MAsranga
+http://163.172.29.246:8081/globalbd/maasranga/l_44344_20917165_115.ts?nimblesessionid=58891152
+#EXTINF:-1,Channal 9
+http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8?nimblesessionid=58891040
+#EXTINF:-1,Channal I HD NEW
+http://103.132.180.245:8080/5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangla News",BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangla News",CHANNEL 24
@@ -2460,7 +2478,7 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Independent Tv
 http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1,Atn Bangla
-http://tv.dflix.live:8082/2/mono.m3u8?token=5d8c83b3d4167109a3cc47e8bf33b502d7816c22-64aec6b9935c7a54ab0318b13ff6b212-1607149349-1607138549&remote=103.76.242.238
+http://103.132.180.245:8080/8/index.m3u8
 #EXTINF:-1,Star Jalsha HD
 http://tv.dflix.live:8082/30/mono.m3u8?token=698a7d033d21dd67d950350abac8517d2db82fef-3fb8cb1658c06684900a7610933eb0f4-1607148973-1607138173&remote=103.76.242.238
 #EXTINF:-1,Bangla Vission
@@ -3038,4 +3056,4 @@ http://103.135.208.14:8082/23/index.m3u8?token=4e16a48b20eb4457c6887771dd9b463bc
 #EXTINF:-1,Colors Bangla HD NO Buffer
 http://103.135.208.14:8082/66/index.m3u8?token=e6c9111a5032ed56a206a22ca703bcdbddcb031b-c6de95b90602dfa52d72acb6905eaae7-1607171446-1607160646&remote=103.76.242.238
 #EXTINF:-1, Zee bangla Cinema
-http://103.135.208.14:8082/29/2020/12/05/09/35/25-05281.ts?token=f07ef0ea7733790cbdf89dc381cc1a793ec53f0c-7b6fc5a0f33d5f744cd1c18e98a2f643-1607171418-1607160618
+https://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/mono.m3u8
