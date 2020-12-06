@@ -9,8 +9,8 @@ https://rhridoy136.shortcm.li/atnnews.m3u8
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:-1,Sony Six HD
 http://103.135.208.14:8082/24/index.m3u8?token=d41017f21088abba4eab101a1de6bcabf499cb77-496b64257982b75632d55b4c1a71dfbb-1607236503-1607225703&remote=103.76.242.238
-#EXTINF:-1,GTV HD 2
-http://103.135.208.14:8082/1/index.m3u8?token=b8686e319dac5aeb1e031a7412e7f59a67bf15a2-28c79966a4bca0259493dd425631da69-1607171164-1607160364&remote=103.76.242.238
+#EXTINF:-1,Sony Aath new
+http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangla News",BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangla News",CHANNEL 24
