@@ -5,22 +5,18 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="Bangla News",Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:-1,Sony Six new
-http://103.135.208.14:8082/24/index.m3u8?token=d30c82a795673ea83af7529af46641d0bc05b186-90095c858f8ac1704e0214b03f8f04d0-1607255002-1607244202&remote=103.76.242.238
+#EXTINF:-1,T sports HD
+https://stream.rangdhanu.live/BangabandhuT20Cup/tracks-v1a1/mono.m3u8?token=de1c57e5ad0beddab9ae576d7d7cc4c92df58aed-8b549d9705da3dc3f294a62f5010191b-1607336985-1607326185
 #EXTINF:-1,Sony Aath new
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
-#EXTINF:-1,Sony Aath new 2
-https://ccntv.anytv.live/sonyaath/index.m3u8
-#EXTINF:-1,Jalsha Movies New HD
-https://ccntv.anytv.live/jalshamovise/index.m3u8
 #EXTINF:-1, Sony Max old
 https://ccntv.anytv.live/sonymax/index.m3u8
 #EXTINF:-1,DBC news
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1, Star Jalsha Yuup
-http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?nimblesessionid=58968636
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?nimblesessionid=59169668
 #EXTINF:-1, Zee Bangla New
-http://163.172.29.246:8081/globalbd/zeebangla/l_29146_37842080_6297.ts?nimblesessionid=58893261
+http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?nimblesessionid=59170306
 #EXTINF:-1,MAsranga
 http://163.172.29.246:8081/globalbd/maasranga/l_44344_20917165_115.ts?nimblesessionid=58891152
 #EXTINF:-1,Channal 9
