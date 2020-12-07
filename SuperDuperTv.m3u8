@@ -1,12 +1,4 @@
 #EXTM3U #EXTM3U url-tvg=""
-#EXTINF:-1,T Sports Public
-https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
-#EXTINF:-1,T Sports Public 2
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
-#EXTINF:-1,T Sports Public 3
-http://103.151.197.6/channel1/myStream_240p/chunklist.m3u8
-#EXTINF:-1, T Sports icc
-http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Bangla News",Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
