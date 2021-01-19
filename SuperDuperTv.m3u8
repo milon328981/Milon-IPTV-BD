@@ -1,4 +1,3 @@
-IPTV link, [13.01.21 00:49]
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BanglaVission" tvg-logo="https://lh3.googleusercontent.com/proxy/VkAMDkH_8Wtepi9ntBo5Wv62-90FbouCLHyKsBn_iNJ2UP7JRPOjFbtaC3ME_Gf-YI6MSOhYB_QZOMhaS1jeEtLfgis8lHfBXmiqG4ScezHqdwuwXfcqkMl_rurn" group-title="Bangla",BanglaVission
 http://103.205.133.20/hls/banglavision.m3u8
